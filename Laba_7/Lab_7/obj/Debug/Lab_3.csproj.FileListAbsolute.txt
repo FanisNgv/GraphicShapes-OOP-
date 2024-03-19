@@ -1,0 +1,10 @@
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\MyLab1.Form1.resources
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\bin\Debug\Lab_2.exe.config
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\bin\Debug\Lab_2.exe
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\bin\Debug\Lab_2.pdb
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\Lab_2.exe
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_3\Lab_3\obj\Debug\Lab_2.pdb
