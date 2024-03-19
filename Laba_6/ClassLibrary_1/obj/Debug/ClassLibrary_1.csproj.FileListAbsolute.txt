@@ -1,0 +1,12 @@
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_4\ClassLibrary_1\bin\Debug\ClassLibrary_1.dll
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_4\ClassLibrary_1\bin\Debug\ClassLibrary_1.pdb
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_4\ClassLibrary_1\obj\Debug\ClassLibrary_1.csproj.AssemblyReference.cache
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_4\ClassLibrary_1\obj\Debug\ClassLibrary_1.csproj.CoreCompileInputs.cache
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_4\ClassLibrary_1\obj\Debug\ClassLibrary_1.dll
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_4\ClassLibrary_1\obj\Debug\ClassLibrary_1.pdb
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_6\ClassLibrary_1\bin\Debug\ClassLibrary_1.dll
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_6\ClassLibrary_1\bin\Debug\ClassLibrary_1.pdb
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_6\ClassLibrary_1\obj\Debug\ClassLibrary_1.csproj.CoreCompileInputs.cache
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_6\ClassLibrary_1\obj\Debug\ClassLibrary_1.dll
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_6\ClassLibrary_1\obj\Debug\ClassLibrary_1.pdb
+C:\Users\Фанис Нигамадянов\Desktop\ООП\Laba_6\ClassLibrary_1\obj\Debug\ClassLibrary_1.csproj.AssemblyReference.cache
